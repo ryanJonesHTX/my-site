@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryanjones.netlify.app/sitemap-index.xml
